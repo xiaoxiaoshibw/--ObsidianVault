@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e48e434685a4c51b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a26e6360be842119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0ce31eb98cb226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/00_期末高频考点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_期末高频考点"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2ffc4d4cbfc8b02",
+    "type": "split",
+    "children": [
+      {
+        "id": "586182ddf3a46518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc06e9757d7e578",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "997774e09f3f859a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c49967e07c8ddd16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3d05fa9ba734e1a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9ae2c0cb729f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533940d3c44aedcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 的反向链接列表"
+            }
+          },
+          {
+            "id": "5b1cf81df27e8862",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 的出链列表"
+            }
+          },
+          {
+            "id": "f0e4691b0460c8e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "41cd94da736172f2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "497bb55000eaf707",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "cb0ce31eb98cb226",
+  "lastOpenFiles": [
+    "操作系统/00_期末高频考点.md.tmp.24612.6c9ed87e3ad2",
+    "操作系统/00_错题本.md",
+    "操作系统/00_期末高频考点.md",
+    "操作系统/第7章 输入输出系统/SSTF.md",
+    "操作系统/第7章 输入输出系统/SPOOLing.md",
+    "操作系统/第7章 输入输出系统/SCAN电梯算法.md",
+    "操作系统/第7章 输入输出系统/单缓冲.md",
+    "操作系统/第7章 输入输出系统/磁盘调度FCFS.md",
+    "操作系统/第7章 输入输出系统/程序查询方式.md",
+    "操作系统/第6章 虚拟存储器/抖动现象.md",
+    "操作系统/第6章 虚拟存储器/工作集.md",
+    "操作系统/第1章 操作系统引论/批处理_分时_实时.md",
+    "操作系统/第1章 操作系统引论/特权指令.md",
+    "操作系统/第1章 操作系统引论/原语.md",
+    "操作系统/第1章 操作系统引论/操作系统特征.md",
+    "操作系统/第1章 操作系统引论/多道程序设计.md",
+    "操作系统/第1章 操作系统引论/操作系统功能.md",
+    "操作系统/第1章 操作系统引论/操作系统定义.md",
+    "操作系统/01_操作系统概述/操作系统定义.md.md",
+    "操作系统/第1章 操作系统引论/原语.md.tmp.24612.c1c2a5fa74f3",
+    "操作系统/第1章 操作系统引论/批处理_分时_实时.md.tmp.24612.76b809548a87",
+    "操作系统/第1章 操作系统引论/操作系统功能.md.tmp.24612.ca7605bbc0f9",
+    "操作系统/第1章 操作系统引论/多道程序设计.md.tmp.24612.744ccefd72e4",
+    "操作系统/第1章 操作系统引论/管态和目态.md.tmp.24612.359e3de7436e",
+    "操作系统/第1章 操作系统引论/操作系统特征.md.tmp.24612.5fc5ae4b1e65",
+    "操作系统/第4章 进程同步/PV操作.md.tmp.24612.e8e7a8fd4033",
+    "操作系统/第4章 进程同步/生产者消费者问题.md.tmp.24612.1ae11cd8ff7e",
+    "操作系统/第4章 进程同步/临界区.md.tmp.24612.a7ac05909e03",
+    "操作系统/第4章 进程同步/临界资源.md.tmp.24612.c21e7c2e23c2",
+    "操作系统/第7章 输入输出系统/CSCAN.md",
+    "操作系统/第7章 输入输出系统/循环缓冲.md",
+    "操作系统/第7章 输入输出系统/双缓冲.md",
+    "操作系统/第7章 输入输出系统/缓冲技术.md",
+    "操作系统/第7章 输入输出系统/通道方式.md",
+    "操作系统/第7章 输入输出系统/DMA方式.md",
+    "操作系统/第7章 输入输出系统/中断方式.md"
+  ]
+}
